@@ -9,3 +9,5 @@ wordcloud
 plotly
 scikit-learn
 numpy
+matplotlib>=3.0.0
+pillow
